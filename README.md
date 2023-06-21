@@ -14,7 +14,7 @@ O projeto foi desenvolvido como desafio do curso Explorer da Rocketseat.
 
 <br>
 
-[Visite o projeto online]()
+[Visite o projeto online](https://arks-lacerda.github.io/13-exploreSemLimites/)
 
 <h2> Tecnologias </h2>
 
